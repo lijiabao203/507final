@@ -1,4 +1,6 @@
 # 507final
 507 final project
 
-There are original code and trained models. Model names shows their type and epochs.
+There is original code.
+
+Models are too big to upload. please contact me if you need.
